@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word in season. Most humbly offered to the consideration of the honorable House of Commons. Being a prospect of publick grievances, with some particulars relating to the imbezling of prizes and prize goods; together with the proceedings of the Commissioners for Prizes.</title>
+            <author>Everett, George, Shipwright.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22648</idno>
+            <idno type="STC">Wing E3549</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[84]</idno>
+            <idno type="STC">ESTC R226259</idno>
+            <idno type="EEBO-CITATION">99886597</idno>
+            <idno type="PROQUEST">ocm99886597</idno>
+            <idno type="VID">187512</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B22648)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187512)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[86])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word in season. Most humbly offered to the consideration of the honorable House of Commons. Being a prospect of publick grievances, with some particulars relating to the imbezling of prizes and prize goods; together with the proceedings of the Commissioners for Prizes.</title>
+                  <author>Everett, George, Shipwright.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: George Everett.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prize money --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:187512:1" rendition="simple:additions"/>
+            <head>
+               <hi>A Word in Seaſon. <hi>Moſt humbly offered to the Conſideration of the Honorable</hi>
+               </hi> Houſe of Commons.</head>
+            <head type="sub">Being a proſpect of Publick Grievances, with ſome particulars relating to the Imbezling of PRIZES and Prize GOODS; together with the Proceedings of the Commiſſioners for Prizes.</head>
+            <opener>
+               <salute>MOST Worthy Senators,</salute>
+            </opener>
+            <p>having made Obſervations of ſome Miſcarriages in the Publick during the late Wars, and finding it is morally Impoſſible to bring the Offenders to Puniſhment, unleſs this Honorable Houſe will vouchſafe to take cognizance thereof; and being no way doubtful of your Honours good Intentions of Redreſſing Publick Grievances, which like a raging Peſtilence or violent Torrent, running many years without controle, has greatly impoveriſhed and almoſt ruined this Fruitful and Populous Kingdom. True it is, that War begets Poverty, but the preſent and extreme Poverty of this Nation, proceeds not from the War it ſelf, but from the Warriers, <hi>viz.</hi> thoſe imployed in the management thereof, who has made the ſame not only expenſive but tedious and doubtful. I do not intend to make repetitoins of what Sums has been given by Parliament to proſecute the War with Vigour, and what Sums has been given to carry on the War with <hi>France,</hi> this Honorable Houſe hath no need of Intelligence thereof; and therefore I ſhall omit that, and give your Honours a hint of what I have obſerved in general, during the ſaid War, <hi>viz.</hi> how his Majeſties Royal Undertaking has been betrayed and obſtructed, his Publick Treaſure profu<g ref="char:EOLhyphen"/>ſedly waſted and purloyned, his Trading Subjects and Seamen oppreſſed and ruined, his truly loyal and faithful Subjects diſcouraged and rejected, the War retarded and prolonged, Juſtice perverted, and his Royal Perogative contemned and rejected; his Enemies and Criminals, the occaſion thereof, ſupported and protected, to the almoſt Ruin of his Majeſtys great and glorious Undertakings; whereby this Nation is miſerably faln from that glorious Proſpect it had in the beginning of the Revolution. But paſſing by the particulars of each Grievance, as being too many to enumerate at preſent, I ſhall only preſent your Honours with what I have obſerved touching the im<g ref="char:EOLhyphen"/>bezling of PRIZES, and Prize GOODS, together with ſome Proceedings of the Commiſſioners for Prizes; whereby it is notorious Evident, that his Majeſty has been Defrauded of ſeveral hundred thouſand Pounds, and the Seamen and Mariners almoſt wholly deprived of their Shares and Proportions allowed (by the late Act) for their incouragement. And altho this Honorable Houſe (with intent to diſcover thoſe Frauds) has been pleaſed to order the ſaid Commiſſioners, to lay before them, an Account of what Ships has been taken during the War, and how they have been Sold, and how the money ariſing thereby has been applyed; and that the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners purſuant thereunto, have produced an Account thereof, yet it is morally impoſſible your Honours can have a true ſtate of that matter from them, for the following Reaſons, to wit, ſeveral Ships has been taken this War which with their whole Cargoe and Furniture has been Imbezled by the Captors, and no returns made thereof to their Office: other Ships has been taken and put into the Cuſtody of others the Kings Officers, and not entred or accounted for in the ſaid Prize Office, or elſewhere: And this liberty of imbezling and purloyning of Prize Ships and Goods, has chiefly hapned through the indifferency and negligence of the Commiſſioners, who not regarding his Majeſty's Intereſt, or their own Duty's, have frequently conniv'd at their Offences; for when diſcoveries has been made to them of this kind, they have been pleas'd to Brow-beat the diſcoverers, and to tell them, that the matter diſcovered was committed a great way off, or a great while agoe, and that the Perſon accuſed for ſuch Imbezzlement had given them an account upon Oath of what he had taken; and that that was ſufficient for them. So that the King, and Mariners, was thereby defrauded of their Shares and Proportions, and the Diſcoverers (tho promiſed a Reward at firſt) was only looked upon with an evil Eye, and branded with the Name of an Informer. True it is, to pleaſe the Diſcoverer, <hi>and ſend him a wild Gooſe chaſe,</hi> they have ſomtimes put the King to a conſi<g ref="char:EOLhyphen"/>derable charge to condemn ſuch Ships, and the Diſcoverer to the charge and trouble of producing Evidence to proſecute the ſame, rewarding the Diſcoverer with a no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-payment of ſuch Shares and Proportions of Prize Mony as he was juſtly intitled to receive. But after all, the ſame has lay dormant, being buried in Oblivion, and the Im<g ref="char:EOLhyphen"/>bezlers never call'd to any further account: whereby his Majeſty hath not only been defrauded of immenſe Sums of Money, but the Marriners and Seamens ſhares of Prize Money, who by the ill uſage of their Commanders are Q and run, is remaining in the hands of the ſaid Commiſſioners, or paid to their Captains, as a reward for their ſeverity. So audacious have they been in countenancing and carrying on thoſe Clandeſtine Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctiſes, that when ſome Commanders has been juſtly multed a conſiderable Sum for ſuch Immbezzlements, at another Board they have been pleaſed to refund and pay them, out of the publick Caſh, at their Office. Other Prize Ships and Goods be<g ref="char:EOLhyphen"/>ing delivered into their cuſtody, hath ſuffered the ſame fate, ſeveral prodigious Imbezzlements having been like<g ref="char:EOLhyphen"/>wiſe made of their Cargoe, to the great prejudice of his Majeſty, and others concerned, who notwithſtanding their utmoſt endeavours, could not prevail with them to enquire into thoſe miſcarriages, in order to make Reſti<g ref="char:EOLhyphen"/>tution for the ſame; whereby ſeveral Offenders (by ſuch Imbezzlements) are grown ſo fluſh and full of mony, that it is a task of the greateſt difficulty to bring them to a Tryal in any of his Majeſty's Courts, upon the greateſt Breach of the Law. Theſe and many other illegal Practiſes, too many here to enumerate, has frequently been occaſioned through the ill conduct of the Officers for Prizes; which, the better to cover the crime, they have Retaliated themſelves, with an extraordinary Reward for their ſignal Services, as by their Books of Accounts will evidently appear: To which I humbly refer, and ſhall only hint, that it would be a Work of ſingular Uſe to his Majeſty, and the Publick, to Examine their particular Accounts, of Disburſtments, Contingencies, promiſ<g ref="char:EOLhyphen"/>cous, incident, and accidental Charges, together with their great Salleries and Rewards, with their little, or no attendance, whereby the myſtery of the whole matter may ſoon be unfolded, if this Honorable Houſe will be pleaſed to command a Diſcovery thereof: which being moſt humbly intimated, may readily be proved.</p>
+            <p>The premiſes thus truly ſtated, the Conſideration thereof <hi>is moſt humbly offered and ſubmitted to this moſt Auguſt and Honorable Aſſembly;</hi> from whence a Redreſs of all our Grievances are deſired and expected.</p>
+            <closer>
+               <signed>GEORGE EVERETT.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
